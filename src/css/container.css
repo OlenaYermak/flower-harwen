@@ -1,19 +1,41 @@
-/* Styles for Mobile devices */
 .container {
-  min-width: 320px;
-  max-width: 375px;
+  width: 100%;
+  max-width: 1440px;
   margin: 0 auto;
   padding: 0 16px;
 }
-/* Styles for Tablet devices */
-@media only screen and (min-width: 768px) {
+
+/* Rubberized layout for mobile (from 320px to 374px) */
+@media (max-width: 374px) {
   .container {
-    max-width: 768px;
+    padding: 0 16px;
+    /* background-color: blanchedalmond; */
   }
 }
-/* Styles for Desktop devices */
-@media only screen and (min-width: 1200px) {
+
+
+/* =============== Mobile adaptiv ===============*/
+@media (min-width: 375px) {
   .container {
-    max-width: 1200px;
+    max-width: 375px;
+    /* background-color: aquamarine; */
+  }
+}
+
+/* =============== Tablet ===============*/
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+    padding: 0 32px;
+    /* background-color: beige; */
+  }
+}
+
+/* =============== Desktop ===============*/
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1440px;
+    padding: 0 60px;
+    /* background-color: aqua; */
   }
 }
