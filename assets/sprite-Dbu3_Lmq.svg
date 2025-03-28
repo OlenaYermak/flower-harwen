@@ -1,0 +1,52 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-close" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.4545" d="M1.455 30.545l14.545-14.545M16 16l14.545-14.545M16 16l-14.545-14.545M16 16l14.545 14.545"></path>
+</symbol>
+<symbol id="icon-moon" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.4545" d="M1.455 15.203c0 8.474 6.869 15.343 15.343 15.343 6.024 0 11.238-3.472 13.748-8.524-13.748 0-20.567-6.819-20.567-20.567-5.052 2.511-8.524 7.724-8.524 13.748z"></path>
+</symbol>
+<symbol id="icon-heart" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M30.4 11.482c0 2.227-0.855 4.366-2.382 5.948-3.515 3.643-6.924 7.443-10.57 10.954-0.836 0.793-2.162 0.764-2.961-0.065l-10.505-10.889c-3.175-3.291-3.175-8.605 0-11.896 3.206-3.324 8.43-3.324 11.636 0l0.382 0.396 0.382-0.396c1.537-1.594 3.631-2.494 5.818-2.494s4.281 0.899 5.818 2.493c1.527 1.582 2.382 3.721 2.382 5.948z"></path>
+</symbol>
+<symbol id="icon-sun" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M16 23.855c4.338 0 7.855-3.517 7.855-7.855s-3.517-7.855-7.855-7.855c-4.338 0-7.855 3.517-7.855 7.855s3.517 7.855 7.855 7.855z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M29.091 16h1.309"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M16 2.909v-1.309"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M16 30.4v-1.309"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M26.473 26.473l-1.309-1.309"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M26.473 5.527l-1.309 1.309"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M5.527 26.473l1.309-1.309"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M5.527 5.527l1.309 1.309"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M1.6 16h1.309"></path>
+</symbol>
+<symbol id="icon-trash" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.4545" d="M27.313 14.384v15.192c0 0.536-0.434 0.97-0.97 0.97h-20.687c-0.536 0-0.97-0.434-0.97-0.97v-15.192"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.4545" d="M12.768 24.081v-9.697"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.4545" d="M19.232 24.081v-9.697"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.4545" d="M30.545 7.919h-8.081M22.465 7.919v-5.495c0-0.536-0.434-0.97-0.97-0.97h-10.99c-0.536 0-0.97 0.434-0.97 0.97v5.495M22.465 7.919h-12.929M1.455 7.919h8.081"></path>
+</symbol>
+<symbol id="icon-cart" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M26.8 30.4c1.193 0 2.16-0.967 2.16-2.16s-0.967-2.16-2.16-2.16c-1.193 0-2.16 0.967-2.16 2.16s0.967 2.16 2.16 2.16z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M12.4 30.4c1.193 0 2.16-0.967 2.16-2.16s-0.967-2.16-2.16-2.16c-1.193 0-2.16 0.967-2.16 2.16s0.967 2.16 2.16 2.16z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M22.48 4.48h7.92l-2.88 15.84h-6.48M22.48 4.48l-1.44 15.84M22.48 4.48h-8.28M21.040 20.32h-5.76M14.2 4.48h-8.28l2.88 15.84h6.48M14.2 4.48l1.080 15.84"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M5.92 4.48c-0.24-0.96-1.44-2.88-4.32-2.88"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M27.52 20.32h-21.268c-2.569 0-3.932 1.125-3.932 2.88s1.363 2.88 3.932 2.88h20.548"></path>
+</symbol>
+<symbol id="icon-burger" viewBox="0 0 32 32">
+<path d="M0 7.2h32v1.6h-32v-1.6z"></path>
+<path d="M0 15.2h32v1.6h-32v-1.6z"></path>
+<path d="M0 23.2h32v1.6h-32v-1.6z"></path>
+</symbol>
+<symbol id="icon-dropdown" viewBox="0 0 32 32">
+<path d="M10.653 11.733l6.188 5.333 6.188-5.333 2.475 1.067-8.663 7.467-8.663-7.467 2.475-1.067z"></path>
+</symbol>
+<symbol id="icon-phone" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.5238" d="M26.297 20.922v3.441c0.001 0.319-0.065 0.636-0.195 0.928s-0.321 0.555-0.561 0.771c-0.239 0.216-0.522 0.38-0.83 0.483s-0.634 0.14-0.958 0.112c-3.59-0.384-7.038-1.59-10.068-3.521-2.819-1.761-5.209-4.111-7-6.882-1.972-2.992-3.199-6.399-3.582-9.944-0.029-0.317 0.009-0.637 0.113-0.939s0.27-0.579 0.488-0.814c0.218-0.235 0.484-0.423 0.781-0.552s0.617-0.195 0.941-0.196h3.5c0.566-0.005 1.115 0.192 1.544 0.555s0.71 0.867 0.789 1.418c0.148 1.101 0.422 2.182 0.817 3.223 0.157 0.411 0.191 0.857 0.098 1.286s-0.309 0.823-0.623 1.134l-1.482 1.457c1.661 2.872 4.079 5.249 7 6.882l1.482-1.457c0.317-0.308 0.718-0.521 1.154-0.612s0.89-0.058 1.308 0.096c1.059 0.388 2.158 0.658 3.278 0.803 0.567 0.079 1.084 0.359 1.454 0.789s0.567 0.977 0.552 1.54z"></path>
+</symbol>
+<symbol id="icon-search" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M14.667 25.333c5.891 0 10.667-4.776 10.667-10.667s-4.776-10.667-10.667-10.667c-5.891 0-10.667 4.776-10.667 10.667s4.776 10.667 10.667 10.667z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.6" d="M28 28l-5.8-5.8"></path>
+</symbol>
+</defs>
+</svg>
